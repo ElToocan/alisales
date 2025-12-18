@@ -1,0 +1,22 @@
+{
+    "Dashboard": "Tableau de bord",
+    "You are logged in !": "Vous êtes connecté !",
+    "Name" : "Nom",
+    "Address" : "Addresse",
+    "Postal code" : "Code Postal",
+    "City" : "Ville",
+    "Customers": "Clients",
+    "Add": "Ajouter",
+    "Back": "Retour",
+    "Update": "Modifier",
+    "Customer create": "Crée un client",
+    "Are you sure you want to destroy this customer ?": "Êtes-vous sûr de vouloir supprimer ce client ?",
+    "Products":"Produits",
+    "Reference": "Reference",
+    "Description": "Description",
+    "Selling price": "Prix de vente",
+    "Purchase price": "Prix d'achat",
+    "Vat rate": "Taux tva"
+
+
+}
